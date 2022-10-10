@@ -13,12 +13,12 @@ export default function Main(){
         )
     })
     return (
-        <>
+        <div>
         <Header/>
         <section>
          {places}
         </section>
         
-        </>
+        </div>
     )
 }
