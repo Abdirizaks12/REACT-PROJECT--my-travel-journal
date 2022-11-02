@@ -3,9 +3,10 @@
 }
 
 .body{
-width: 550px;
-height: 704px;
-font-family: 'Inter', sans-serif;
+    width: 550px;
+    height: 704px;
+    font-family: 'Inter', sans-serif;
+    margin: 0 auto;
 
 }
 
